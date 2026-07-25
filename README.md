@@ -14,7 +14,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![Le0nK3nnedy](https://hismemorieslol.carrd.co/assets/images/image25.png?v=6a9769ab)
+![Le0nK3nnedy](https://hismemorieslol.carrd.co/assets/images/image29.png?v=7baad598)
 
 <p align="center">
   <a href="https://www.tumblr.com/lavendergalactic">cɾᧉᑯιƚ</a> &emsp; 
