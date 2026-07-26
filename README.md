@@ -1,4 +1,4 @@
-![Le0nK3nnedy](https://hismemorieslol.carrd.co/assets/images/image23.png?v=6a9769ab)
+![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image23.png?v=6a9769ab)
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -14,7 +14,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![Le0nK3nnedy](https://hismemorieslol.carrd.co/assets/images/image29.png?v=7baad598)
+![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image29.png?v=7baad598)
 
 <p align="center">
   <a href="https://www.tumblr.com/necroangelz">cɾᧉᑯιƚ</a> &emsp; 
@@ -33,10 +33,10 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![Le0nK3nnedy](https://hismemorieslol.carrd.co/assets/images/image23.png?v=6a9769ab)
+![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image23.png?v=6a9769ab)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Le0nK3nnedy&label=watching&color=070707" />
+  <img src="https://komarev.com/ghpvc/?username=SELF-EMBODIED-MAHITO&label=watching&color=070707" />
 </p>
 
 <!--
