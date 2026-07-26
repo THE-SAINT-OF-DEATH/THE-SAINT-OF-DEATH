@@ -1,4 +1,4 @@
-![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image23.png?v=6a9769ab)
+![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image23.png?v=7baad598)
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -33,7 +33,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image23.png?v=6a9769ab)
+![SELF-EMBODIED-MAHITO](https://hismemorieslol.carrd.co/assets/images/image24.png?v=7baad598)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SELF-EMBODIED-MAHITO&label=watching&color=070707" />
