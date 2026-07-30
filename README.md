@@ -36,5 +36,5 @@
 ![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image37.png?v=cc48b970)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH &label=killings&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=killings&color=000000" />
 </p>
