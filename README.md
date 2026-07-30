@@ -14,7 +14,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image29.png?v=7baad598)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image35.png?v=cc48b970)
 
 <p align="center">
   <a href="https://www.tumblr.com/necroangelz">cɾᧉᑯιƚ</a> &emsp; 
