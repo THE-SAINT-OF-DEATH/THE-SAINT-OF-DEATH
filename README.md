@@ -1,9 +1,9 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image23.png?v=7baad598)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image35.png?v=cc48b970)
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 <p align="center">
-  ოᥲhιƚ𝗈
+  ʝᧉff
 </p>
 </p>
 <p align="center">
