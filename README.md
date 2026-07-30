@@ -17,7 +17,7 @@
 ![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image35.png?v=cc48b970)
 
 <p align="center">
-  <a href="https://www.tumblr.com/necroangelz">cɾᧉᑯιƚ</a> &emsp; 
+  <a href="https://www.tumblr.com/oneshotfate?source=share">cɾᧉᑯιƚ</a> &emsp; 
   <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://s3ptember30th.atabook.org/">ᥲƚᥲ</a> &emsp; 
   <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
