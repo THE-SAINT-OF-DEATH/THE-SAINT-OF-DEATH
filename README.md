@@ -3,7 +3,7 @@
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 <p align="center">
-  ʝᧉff
+'   lᥙkᥲ  ,   lιʋᧉ  ⍵ιƚh  l𝗈ʋᧉ   '
 </p>
 </p>
 <p align="center">
@@ -17,7 +17,7 @@
 ![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image40.png?v=345cbe72)
 
 <p align="center">
-  <a href="https://www.tumblr.com/oneshotfate?source=share">cɾᧉᑯιƚ</a> &emsp; 
+  <a href="https://www.tumblr.com/abudasima?source=share">cɾᧉᑯιƚ</a> &emsp; 
   <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://shinigami-eyes.atabook.org/">ᥲƚᥲ</a> &emsp; 
   <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
