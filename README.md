@@ -1,4 +1,4 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image36.png?v=cc48b970)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image39.png?v=345cbe72)
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -14,7 +14,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image35.png?v=cc48b970)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image40.png?v=345cbe72)
 
 <p align="center">
   <a href="https://www.tumblr.com/oneshotfate?source=share">cɾᧉᑯιƚ</a> &emsp; 
@@ -33,7 +33,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image37.png?v=cc48b970)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image38.png?v=345cbe72)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=killings&color=000000" />
