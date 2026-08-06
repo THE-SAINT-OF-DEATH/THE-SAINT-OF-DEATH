@@ -1,4 +1,4 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image39.png?v=345cbe72)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image42.png?v=c4960631)
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -33,8 +33,8 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image38.png?v=345cbe72)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image42.png?v=c4960631)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=killings&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=missing&color=000000" />
 </p>
