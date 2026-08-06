@@ -3,7 +3,7 @@
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 <p align="center">
-'   lᥙkᥲ  ,   lιʋᧉ  ⍵ιƚh  l𝗈ʋᧉ   '
+'    ι    l𝗈ʋᧉ   ყ𝗈u    '
 </p>
 </p>
 <p align="center">
