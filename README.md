@@ -14,7 +14,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image40.png?v=345cbe72)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image43.png?v=c4960631)
 
 <p align="center">
   <a href="https://www.tumblr.com/abudasima?source=share">cɾᧉᑯιƚ</a> &emsp; 
