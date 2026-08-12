@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tumblr.com/abudasima?source=share">cɾᧉᑯιƚ</a> &emsp; 
+  <a href="https://www.tumblr.com/knife-wielding?source=share">cɾᧉᑯιƚ</a> &emsp; 
   <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://shinigami-eyes.atabook.org/">ᥲƚᥲ</a> &emsp; 
   <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
