@@ -18,6 +18,7 @@
   <img src="https://umbr33la.carrd.co/assets/images/image36.png?v=3fbb6b3e" alt="leon" width="300" />
 </p>
 
+
 <p align="center">
   <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://shinigami-eyes.atabook.org/">ᥲƚᥲ</a> &emsp; 
