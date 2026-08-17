@@ -3,8 +3,9 @@
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 <p align="center">
-     hιɾ𝗈  kᥙ𑄈ㅤㅤ    
+       hιɾ𝗈    
 </p>
+
 </p>
 <p align="center">
 ㅤ
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://umbr33la.carrd.co/assets/images/image36.png?v=3fbb6b3e" alt="leon" width="300" />
+  <img src="https://umbr33la.carrd.co/assets/images/image36.png?v=fb9e4808" alt="leon" width="300" />
 </p>
 
 
