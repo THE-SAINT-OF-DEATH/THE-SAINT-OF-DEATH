@@ -43,5 +43,5 @@
 ![THE-SAINT-OF-DEATH](https://umbr33la.carrd.co/assets/images/image44.png?v=61abb2cd)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=missing&color=FFFFFF" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=missing&color=000000" />
 </p>
