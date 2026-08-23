@@ -1,4 +1,4 @@
-![THE-SAINT-OF-DEATH](https://umbr33la.carrd.co/assets/images/image39.png?v=99f9c798)
+![THE-SAINT-OF-DEATH](https://umbr33la.carrd.co/assets/images/image48.png?v=210a46be)
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://umbr33la.carrd.co/assets/images/image41.png?v=99f9c798" alt="leon" width="300" />
+  <img src="https://umbr33la.carrd.co/assets/images/image43.png?v=9f434270" alt="leon" width="300" />
 </p>
 
 
