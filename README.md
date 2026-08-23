@@ -2,9 +2,13 @@
 <p align="center">
 ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
-<p align="center">
- gɾι𝖿𝖿ιƚһ  
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://umbr33la.carrd.co/assets/images/image03.gif?v=5c95ed73" width="300" /></td>
+    <td><img src="https://umbr33la.carrd.co/assets/images/image01.gif?v=5c95ed73" width="300" /></td>
+  </tr>
+</table>
 
 </p>
 <p align="center">
