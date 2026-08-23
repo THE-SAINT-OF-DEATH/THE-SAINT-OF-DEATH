@@ -1,12 +1,12 @@
 ![THE-SAINT-OF-DEATH](https://umbr33la.carrd.co/assets/images/image48.png?v=210a46be)
 <p align="center">
-⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
+  ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 
 <table align="center">
   <tr>
-    <td><img src="https://umbr33la.carrd.co/assets/images/image03.gif?v=5c95ed73" width="300" /></td>
-    <td><img src="https://umbr33la.carrd.co/assets/images/image01.gif?v=5c95ed73" width="300" /></td>
+    <td><img src="https://umbr33la.carrd.co/assets/images/image05.png?v=f71879bf" width="300" /></td>
+    <td><img src="https://umbr33la.carrd.co/assets/images/image04.png?v=f71879bf" width="300" /></td>
   </tr>
 </table>
 
