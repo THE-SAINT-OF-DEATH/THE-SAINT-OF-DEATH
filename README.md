@@ -36,7 +36,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://umbr33la.carrd.co/assets/images/image40.png?v=99f9c798)
+![THE-SAINT-OF-DEATH](https://umbr33la.carrd.co/assets/images/image44.png?v=61abb2cd)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=missing&color=FFFFFF" />
