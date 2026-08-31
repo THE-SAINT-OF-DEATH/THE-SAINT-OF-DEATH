@@ -5,8 +5,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://umbr33la.carrd.co/assets/images/image05.png?v=f71879bf" width="300" /></td>
-    <td><img src="https://umbr33la.carrd.co/assets/images/image04.png?v=f71879bf" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image01.jpg?v=16fe99ea" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image02.jpg?v=16fe99ea" width="300" /></td>
   </tr>
 </table>
 
@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-  <img src="https://umbr33la.carrd.co/assets/images/image43.png?v=9f434270" alt="leon" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=09534d04" alt="sephiroth" width="300" />
 </p>
 
 
 <p align="center">
-  <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
+  <a href="https://m0rthttps://hismemorieslol.carrd.co/assets/images/image39.png?v=09534d04a1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://shinigami-eyes.atabook.org/">ᥲƚᥲ</a> &emsp; 
   <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
 </p>
