@@ -5,8 +5,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image01.jpg?v=16fe99ea" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image02.jpg?v=16fe99ea" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image07.png?v=f15062c5" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=f15062c5" width="300" /></td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=09534d04" alt="sephiroth" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=f15062c5" alt="nagito" width="300" />
 </p>
 
 
