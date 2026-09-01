@@ -6,6 +6,7 @@
 <table align="center">
   <tr>
     <td><img src="https://hismemorieslol.carrd.co/assets/images/image07.png?v=f15062c5" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=f15062c5" width="300" /></td>
     <td><img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=f15062c5" width="300" /></td>
   </tr>
 </table>
