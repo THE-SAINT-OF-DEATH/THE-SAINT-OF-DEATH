@@ -5,9 +5,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image07.png?v=f15062c5" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=f15062c5" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=f15062c5" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image02.png?v=94cb7978" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image05.png?v=b485e65f" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image03.png?v=94cb7978" width="300" /></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=f15062c5" alt="nagito" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image01.png?v=b485e65f" alt="chance" width="300" />
 </p>
 
 
