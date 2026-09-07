@@ -5,9 +5,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=a97c25ee" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image01.png?v=258abfbc" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image04.png?v=a97c25ee" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image01.png?v=acae6dc3" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image03.png?v=acae6dc3" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image04.png?v=acae6dc3" width="300" /></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image05.png?v=acae6dc3" alt="basil" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image05.png?v=acae6dc3" alt="PunPun" width="300" />
 </p>
 
 
