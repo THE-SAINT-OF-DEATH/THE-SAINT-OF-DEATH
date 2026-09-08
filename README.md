@@ -1,4 +1,4 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image03.png?v=2bf5243d)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image01.jpg?v=54063989)
 <p align="center">
   ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image05.png?v=acae6dc3" alt="PunPun" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=54063989" alt="Gojo" width="300" />
 </p>
 
 
@@ -41,7 +41,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image04.png?v=2bf5243d)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image01.jpg?v=54063989)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Luck&color=000000" />
