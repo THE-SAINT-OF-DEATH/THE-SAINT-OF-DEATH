@@ -43,5 +43,5 @@
 ![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image03.png?v=574ee072)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Luck&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Luck&color=FFFFFF" />
 </p>
