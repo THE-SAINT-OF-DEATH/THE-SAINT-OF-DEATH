@@ -1,13 +1,12 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image01.jpg?v=54063989)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image05.png?v=574ee072)
 <p align="center">
   ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image49.png?v=f2d44852" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image02.png?v=f2d44852" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image45.png?v=f2d44852" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=b3fa1d46" width="300" /></td>
+     <td><img src="https://hismemorieslol.carrd.co/assets/images/image07.png?v=b3fa1d46" width="300" /></td>
   </tr>
 </table>
 
@@ -21,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=54063989" alt="Gojo" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=b3fa1d46" alt="Griffith" width="300" />
 </p>
 
 
@@ -41,7 +40,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image01.jpg?v=54063989)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image03.png?v=574ee072)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Luck&color=000000" />
