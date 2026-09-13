@@ -5,8 +5,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=b3fa1d46" width="300" /></td>
-     <td><img src="https://hismemorieslol.carrd.co/assets/images/image07.png?v=b3fa1d46" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=33e93eb2" width="300" /></td>
+     <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=70442459" width="300" /></td>
   </tr>
 </table>
 
