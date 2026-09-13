@@ -1,4 +1,4 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image05.png?v=574ee072)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image09.png?v=82a758f8)
 <p align="center">
   ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=b3fa1d46" alt="Griffith" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image01.gif?v=82a758f8" alt="LightYagami" width="300" />
 </p>
 
 
@@ -40,8 +40,8 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image03.png?v=574ee072)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image04.png?v=82a758f8)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Sacrifices&color=FFFFFF" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Deaths&color=FFFFFF" />
 </p>
