@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image01.png?v=78e2ff89" alt="LightYagami" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image01.png?v=78e2ff89" alt="pierrot" width="300" />
 </p>
 
 
@@ -40,8 +40,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image04.png?v=82a758f8)
-
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image37.png?v=78e2ff89)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Deaths&color=6a2227" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Act's&color=6a2227" />
 </p>
