@@ -1,12 +1,12 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image09.png?v=82a758f8)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image36.png?v=78e2ff89)
 <p align="center">
   ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=33e93eb2" width="300" /></td>
-     <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=70442459" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=78e2ff89" width="300" /></td>
+     <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=78e2ff89" width="300" /></td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image01.gif?v=82a758f8" alt="LightYagami" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image01.png?v=78e2ff89" alt="LightYagami" width="300" />
 </p>
 
 
