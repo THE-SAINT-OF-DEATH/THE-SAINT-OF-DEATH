@@ -1,4 +1,4 @@
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image38.png?v=fca85be9)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image23.png?v=14f99919)
 <p align="center">
   ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
@@ -40,7 +40,7 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 
-![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image38.png?v=fca85be9)
+![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image38.png?v=14f99919)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=GunShots&color=ffffff" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Hands&color=ffffff" />
 </p>
