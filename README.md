@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <a href="https://m0rthttps://hismemorieslol.carrd.co/assets/images/image39.png?v=09534d04a1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
+  <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://crushedpetals.atabook.org/">ᥲƚᥲ</a> &emsp; 
   <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
 </p>
