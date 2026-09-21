@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=14f99919" alt="mha" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image23.png?v=b486b58c" alt="kny" width="300" />
 </p>
 
 
@@ -42,5 +42,5 @@
 
 ![THE-SAINT-OF-DEATH](https://hismemorieslol.carrd.co/assets/images/image38.png?v=14f99919)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Hands&color=ffffff" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Burnt&color=ffffff" />
 </p>
