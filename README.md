@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=8d278f41" alt="description" width="300">
 </p>
-  ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
+  </p>
+<p align="center">
+ㅤ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
-
 <table align="center">
   <tr>
     <td><img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=87879482" width="300" /></td>
