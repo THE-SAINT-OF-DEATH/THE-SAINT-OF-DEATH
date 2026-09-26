@@ -45,5 +45,5 @@
   <img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=cff094ee" alt="description" width="300">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Burnt&color=ffffff" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Eaten&color=FF7BCE" />
 </p>
