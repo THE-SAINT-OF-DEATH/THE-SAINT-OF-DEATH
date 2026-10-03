@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=8d278f41" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=3450f64d" alt="description" width="300">
 </p>
   </p>
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image09.png?v=87879482" width="300" /></td>
-     <td><img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=87879482" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image23.png?v=3450f64d" width="300" /></td>
+     <td><img src="https://hismemorieslol.carrd.co/assets/images/image05.png?v=3450f64d" width="300" /></td>
   </tr>
 </table>
 
