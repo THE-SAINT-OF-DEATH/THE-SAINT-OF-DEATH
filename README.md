@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image09.gif?v=5d59ec3a" alt="senketsuakochan" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image09.jpg?v=3450f64d" alt="barney" width="300" />
 </p>
 
 
