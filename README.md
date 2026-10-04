@@ -45,6 +45,4 @@
 <p align="center">
   <img src="https://hismemorieslol.carrd.co/assets/images/image39.gif?v=cad4d8ce" alt="description" width="300">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Kills&color=452425" />
-</p>
+
