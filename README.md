@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=3450f64d" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image39.gif?v=cad4d8ce" alt="description" width="300">
 </p>
   </p>
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image23.png?v=3450f64d" width="300" /></td>
-     <td><img src="https://hismemorieslol.carrd.co/assets/images/image05.png?v=3450f64d" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image09.gif?v=cad4d8ce" width="300" /></td>
+     <td><img src="https://hismemorieslol.carrd.co/assets/images/image05.gif?v=cad4d8ce" width="300" /></td>
   </tr>
 </table>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image09.jpg?v=3450f64d" alt="barney" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=cad4d8ce" alt="meat" width="300" />
 </p>
 
 
@@ -43,8 +43,8 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=3450f64d" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image39.gif?v=cad4d8ce" alt="description" width="300">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Coffee&color=452425" />
+  <img src="https://komarev.com/ghpvc/?username=THE-SAINT-OF-DEATH&label=Kills&color=452425" />
 </p>
