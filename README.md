@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image08.gif?v=4fa5babb" alt="meat" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=bec9c801" alt="meat" width="300" />
 </p>
 
 
