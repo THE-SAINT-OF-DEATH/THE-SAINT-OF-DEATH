@@ -1,16 +1,23 @@
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image39.gif?v=cad4d8ce" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=3cf1259f" alt="description" width="300">
 </p>
+
+  
   </p>
 <p align="center">
 ㅤ⌣︵⌣⏜੭    ୧ֹ⏜⌣︵⌣
 </p>
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image09.gif?v=cad4d8ce" width="300" /></td>
-     <td><img src="https://hismemorieslol.carrd.co/assets/images/image05.gif?v=cad4d8ce" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image36.png?v=3cf1259f" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image23.png?v=cdd8d283" width="300" /></td>
   </tr>
+
 </table>
+
+<p align="center">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=cdd8d283" alt="description" width="300">
+</p>
 
 </p>
 <p align="center">
@@ -22,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image06.png?v=bec9c801" alt="meat" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=3cf1259f" alt="knight" width="300" />
 </p>
 
 
@@ -43,6 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image39.gif?v=cad4d8ce" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=3cf1259f" alt="description" width="300">
 </p>
 
