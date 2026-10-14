@@ -34,6 +34,7 @@
 
 
 <p align="center">
+  <a href="https://www.tumblr.com/submarine-06?source=share">ᥴɾᧉᑯiƚ</a> &emsp; 
   <a href="https://m0rta1l.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://crushedpetals.atabook.org/">ᥲƚᥲ</a> &emsp; 
   <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
