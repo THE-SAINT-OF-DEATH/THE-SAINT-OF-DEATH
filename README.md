@@ -46,6 +46,6 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieshttps://hismemorieslol.carrd.co/assets/images/image06.gif?v=2afa2017 width="300">
+  <img src="https://hismemorieshttps://hismemorieslol.carrd.co/assets/images/image06.gif?v=2afa2017" width="300">
 </p>
 
