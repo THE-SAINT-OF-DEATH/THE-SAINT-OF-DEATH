@@ -44,4 +44,7 @@
 <p align="center">
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
+<p align="center">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image06.gif?v=2afa2017" alt="description" width="300">
+</p>
 
