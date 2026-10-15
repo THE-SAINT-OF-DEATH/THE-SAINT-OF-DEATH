@@ -9,8 +9,8 @@
 </p>
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image36.gif?v=2afa2017" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image38.gif?v=2afa2017" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=c4a373fd" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=c4a373fd" width="300" /></td>
   </tr>
 
 </table>
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=2afa2017" alt="knight" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image36.png?v=c4a373fd" alt="knight" width="300" />
 </p>
 
 
