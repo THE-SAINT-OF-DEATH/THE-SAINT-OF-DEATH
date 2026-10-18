@@ -9,8 +9,8 @@
 </p>
 <table align="center">
   <tr>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=c4a373fd" width="300" /></td>
-    <td><img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=c4a373fd" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image08.png?v=d89b6ec9" width="300" /></td>
+    <td><img src="https://hismemorieslol.carrd.co/assets/images/image38.png?v=d89b6ec9" width="300" /></td>
   </tr>
 
 </table>
