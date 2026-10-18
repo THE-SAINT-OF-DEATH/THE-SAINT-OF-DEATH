@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image06.gif?v=2afa2017" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image36.png?v=d89b6ec9" alt="description" width="300">
 </p>
 
   
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image36.png?v=c4a373fd" alt="knight" width="300" />
+  <img src="https://hismemorieslol.carrd.co/assets/images/image09.gif?v=d89b6ec9" alt="clover" width="300" />
 </p>
 
 
@@ -45,6 +45,6 @@
 ✦ . 　⁺ 　. ✦ . 　⁺　 .  ✦  . 　⁺   . ✦ . 　 ⁺    ✦ 
 </p>
 <p align="center">
-  <img src="https://hismemorieslol.carrd.co/assets/images/image06.gif?v=2afa2017" alt="description" width="300">
+  <img src="https://hismemorieslol.carrd.co/assets/images/image39.png?v=d89b6ec9" alt="description" width="300">
 </p>
 
