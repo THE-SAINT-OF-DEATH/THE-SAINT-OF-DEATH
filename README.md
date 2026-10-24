@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://pluusultraa.straw.page">ຣƚɾᥲ⍵</a> &emsp; 
   <a href="https://crushedpetals.atabook.org/">ᥲƚᥲ</a> &emsp; 
-  <a href="https://spacehey.com/UMBR3LLA">ຣρᥲcᧉ</a>
+  <a href="https://pronouns.cc/@klnebunni">ρr𑄈ຣ</a>
 </p>
 
   
